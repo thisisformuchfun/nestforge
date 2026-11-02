@@ -1,0 +1,7 @@
+{
+  "purpose": "Retain the recovered 47-design catalog without depending on private hosting metadata or a Git checkout.",
+  "source_commit": "b7fa684c6e57e37ab97fb058da5b200c6f12665d",
+  "files": {
+    "dist/catalog.json": "2b1cf68845cbfbd1b6db5b6d7e415e9a8ecc41f3fa5594ad58fe514805afe89b"
+  }
+}

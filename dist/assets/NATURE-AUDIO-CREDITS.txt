@@ -1,0 +1,7 @@
+NestForge garden ambience
+Source: Gentle breeze and birds singing — ezwa, 18 April 2007.
+https://commons.wikimedia.org/wiki/File:Gentle_breeze_and_birds_singing.ogg
+Public domain, released by the recordist through PDSounds.
+Contains blackcap/chaffinch birdsong and natural breeze.
+Adaptation: crossfaded loop, wind-rumble filtering, loudness adjustment, MP3 encoding.
+No generative voice or speech is used.

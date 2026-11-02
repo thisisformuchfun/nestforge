@@ -1,0 +1,331 @@
+{
+  "dragon-guard-citadel": {
+    "plate_count": 3,
+    "total_time_hours": [
+      14.5,
+      32.0
+    ]
+  },
+  "fairy-tale-turret": {
+    "plate_count": 3,
+    "total_time_hours": [
+      9.5,
+      20.5
+    ]
+  },
+  "gothic-keep": {
+    "plate_count": 3,
+    "total_time_hours": [
+      17.0,
+      37.0
+    ]
+  },
+  "medieval-chapel": {
+    "plate_count": 3,
+    "total_time_hours": [
+      9.5,
+      21.0
+    ]
+  },
+  "royal-gatehouse": {
+    "plate_count": 3,
+    "total_time_hours": [
+      21.0,
+      44.5
+    ]
+  },
+  "stone-fortress": {
+    "plate_count": 3,
+    "total_time_hours": [
+      21.0,
+      44.0
+    ]
+  },
+  "art-deco-tower": {
+    "plate_count": 2,
+    "total_time_hours": [
+      9.0,
+      20.0
+    ]
+  },
+  "geometric-orbit": {
+    "plate_count": 2,
+    "total_time_hours": [
+      13.0,
+      29.0
+    ]
+  },
+  "lantern-pavilion": {
+    "plate_count": 3,
+    "total_time_hours": [
+      9.0,
+      20.5
+    ]
+  },
+  "leaf-cocoon": {
+    "plate_count": 2,
+    "total_time_hours": [
+      12.0,
+      27.0
+    ]
+  },
+  "modern-pod": {
+    "plate_count": 2,
+    "total_time_hours": [
+      10.5,
+      23.5
+    ]
+  },
+  "spiral-shell": {
+    "plate_count": 2,
+    "total_time_hours": [
+      10.0,
+      21.5
+    ]
+  },
+  "geodesic-fusion": {
+    "plate_count": 3,
+    "total_time_hours": [
+      13.0,
+      28.0
+    ]
+  },
+  "indian-haveli": {
+    "plate_count": 3,
+    "total_time_hours": [
+      13.5,
+      29.5
+    ]
+  },
+  "japanese-pagoda": {
+    "plate_count": 3,
+    "total_time_hours": [
+      11.0,
+      24.5
+    ]
+  },
+  "mediterranean-villa": {
+    "plate_count": 3,
+    "total_time_hours": [
+      13.5,
+      30.0
+    ]
+  },
+  "moroccan-riad": {
+    "plate_count": 3,
+    "total_time_hours": [
+      17.5,
+      38.0
+    ]
+  },
+  "scandinavian-cabin": {
+    "plate_count": 3,
+    "total_time_hours": [
+      13.0,
+      27.5
+    ]
+  },
+  "goalpost-ring": {
+    "plate_count": 1,
+    "total_time_hours": [
+      4.0,
+      9.5
+    ]
+  },
+  "helmet": {
+    "plate_count": 3,
+    "total_time_hours": [
+      8.5,
+      19.5
+    ]
+  },
+  "scoreboard-lantern": {
+    "plate_count": 2,
+    "total_time_hours": [
+      7.5,
+      16.5
+    ]
+  },
+  "spiral-football": {
+    "plate_count": 1,
+    "total_time_hours": [
+      12.5,
+      26.5
+    ]
+  },
+  "stadium-bowl": {
+    "plate_count": 4,
+    "total_time_hours": [
+      4.5,
+      11.5
+    ]
+  },
+  "touchdown-pylon": {
+    "plate_count": 1,
+    "total_time_hours": [
+      6.5,
+      14.0
+    ]
+  },
+  "disco-ball-donut": {
+    "plate_count": 1,
+    "total_time_hours": [
+      13.5,
+      29.0
+    ]
+  },
+  "garden-clog": {
+    "plate_count": 1,
+    "total_time_hours": [
+      8.0,
+      16.5
+    ]
+  },
+  "monster-mimic-chest": {
+    "plate_count": 2,
+    "total_time_hours": [
+      16.5,
+      35.0
+    ]
+  },
+  "rubber-duck-spa": {
+    "plate_count": 1,
+    "total_time_hours": [
+      8.5,
+      18.5
+    ]
+  },
+  "toilet-throne": {
+    "plate_count": 1,
+    "total_time_hours": [
+      8.5,
+      18.0
+    ]
+  },
+  "ufo-snackduction": {
+    "plate_count": 3,
+    "total_time_hours": [
+      12.5,
+      27.5
+    ]
+  },
+  "cyber-lantern": {
+    "plate_count": 2,
+    "total_time_hours": [
+      11.0,
+      23.5
+    ]
+  },
+  "drone-nest": {
+    "plate_count": 2,
+    "total_time_hours": [
+      9.5,
+      20.5
+    ]
+  },
+  "moonbase-tower": {
+    "plate_count": 2,
+    "total_time_hours": [
+      13.5,
+      29.5
+    ]
+  },
+  "orbit-pod": {
+    "plate_count": 2,
+    "total_time_hours": [
+      12.0,
+      25.0
+    ]
+  },
+  "sentinel-capsule": {
+    "plate_count": 2,
+    "total_time_hours": [
+      13.0,
+      27.0
+    ]
+  },
+  "sentry-cam-feeder": {
+    "plate_count": 2,
+    "total_time_hours": [
+      12.0,
+      27.0
+    ]
+  },
+  "starship-sentinel": {
+    "plate_count": 2,
+    "total_time_hours": [
+      12.5,
+      27.0
+    ]
+  },
+  "orchard-hopper": {
+    "plate_count": 2,
+    "total_time_hours": [
+      14.5,
+      30.0
+    ]
+  },
+  "meadow-lantern": {
+    "plate_count": 2,
+    "total_time_hours": [
+      11.5,
+      25.0
+    ]
+  },
+  "fern-wall-pocket": {
+    "plate_count": 2,
+    "total_time_hours": [
+      7.0,
+      15.0
+    ]
+  },
+  "pebble-pod": {
+    "plate_count": 2,
+    "total_time_hours": [
+      10.5,
+      21.5
+    ]
+  },
+  "bottle-bough": {
+    "plate_count": 1,
+    "total_time_hours": [
+      4.0,
+      8.5
+    ]
+  },
+  "drift-platform": {
+    "plate_count": 2,
+    "total_time_hours": [
+      5.0,
+      12.0
+    ]
+  },
+  "ridge-aframe": {
+    "plate_count": 2,
+    "total_time_hours": [
+      10.0,
+      22.0
+    ]
+  },
+  "acorn-column": {
+    "plate_count": 2,
+    "total_time_hours": [
+      7.5,
+      16.0
+    ]
+  },
+  "woven-arch": {
+    "plate_count": 2,
+    "total_time_hours": [
+      9.5,
+      20.5
+    ]
+  },
+  "willow-screen": {
+    "plate_count": 1,
+    "total_time_hours": [
+      8.5,
+      18.0
+    ]
+  }
+}

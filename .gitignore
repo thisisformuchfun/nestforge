@@ -1,0 +1,38 @@
+# Local Python environments and generated CAD outputs
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+cad-source/exports/
+cad-source/blockouts/
+cad-source/r6/
+
+# Local hosting identity, credentials, editors, and caches
+.openai/
+.env
+.env.*
+!.env.example
+node_modules/
+.DS_Store
+Thumbs.db
+.pytest_cache/
+*.log
+.*.zip.*
+
+# Reproducible distribution archives
+release-output/
+
+# Reproducible release assets, restored by scripts/fetch-collection.py
+dist/models/
+dist/vendor/*
+!dist/vendor/THREE-LICENSE.txt
+dist/assets/*
+!dist/assets/NATURE-AUDIO-CREDITS.txt
+!dist/assets/fonts/
+dist/assets/fonts/*
+!dist/assets/fonts/*-LICENSE.txt
+dist/downloads/*.zip
+cad-source/cad/assets/*.stl
+archive/
+docs/artwork/
+review/themes-preview-*.jpg

@@ -1,0 +1,32 @@
+✔ Default discovery shows all 37 no-camera designs, and no camera kits (1.326142ms)
+✔ Explicit camera opt-in preserves all 47 existing designs (0.41746ms)
+✔ Every family filter is exact and does not introduce cameras (2.653334ms)
+✔ Search is case-insensitive and matches multiple terms (0.866527ms)
+✔ One-plate and two-plate budgets use actual source counts (0.41124ms)
+✔ Unknown plate counts never satisfy a one-plate promise (0.256727ms)
+✔ Empty searches yield an empty state instead of unrelated products (0.177779ms)
+✔ Sorting is deterministic and does not mutate the catalog (7.484215ms)
+✔ Grammar and malformed hash handling do not fail the collection (0.260783ms)
+✔ Every design has robust full-spool sourcing with dated direct links (108.947891ms)
+✔ No available ASA does not crash or fabricate an estimate (1.276376ms)
+✔ Reinforced and non-1kg offers are never silently substituted (0.615569ms)
+✔ Missing camera prices make the total incomplete, not cheaper (1.614817ms)
+✔ Required lens cost comes from data, never the old hard-coded $9.98 (0.202035ms)
+✔ Duplicate matched spools count once, not once per design color (1.39193ms)
+✔ Unknown, negative, non-finite and unsafe offers are rejected (0.631042ms)
+✔ All four concepts remain distinct from printable catalog records (0.293353ms)
+✔ Shortlist rejects corrupt storage and unknown IDs; toggles without duplicates (0.312172ms)
+✔ CRC32 agrees with the standard check vector (0.189256ms)
+✔ Stored ZIP extraction preserves the exact original bytes (0.552253ms)
+✔ Corrupt same-length plate bytes are blocked before download (0.589029ms)
+✔ Truncated and missing ZIP entries fail safely (0.237548ms)
+✔ Actual selectDesign source cannot overwrite new sourcing after a delayed old model (18.417514ms)
+✔ Nature audio stays silent on ordinary interaction and preserves zero volume (0.744884ms)
+ℹ tests 24
+ℹ suites 0
+ℹ pass 24
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 271.785302

@@ -1,0 +1,123 @@
+{
+  "designs": 47,
+  "unique_camera_feeders": 10,
+  "printed_parts": 175,
+  "native_X1C_plates": 102,
+  "new_camera_plates": 18,
+  "ASA": true,
+  "size_MiB": 245.26,
+  "camera_print_plans": [
+    {
+      "id": "orchard-hopper",
+      "parts": 2,
+      "plates": 2,
+      "planning_hours": [
+        14.5,
+        30.0
+      ],
+      "camera": "wyze-battery-cam-pro",
+      "mounting": "wall"
+    },
+    {
+      "id": "meadow-lantern",
+      "parts": 2,
+      "plates": 2,
+      "planning_hours": [
+        11.5,
+        25.0
+      ],
+      "camera": "wyze-battery-cam-pro",
+      "mounting": "hanging"
+    },
+    {
+      "id": "fern-wall-pocket",
+      "parts": 2,
+      "plates": 2,
+      "planning_hours": [
+        7.0,
+        15.0
+      ],
+      "camera": "birdfy-cam-2k",
+      "mounting": "wall"
+    },
+    {
+      "id": "pebble-pod",
+      "parts": 2,
+      "plates": 2,
+      "planning_hours": [
+        10.5,
+        21.5
+      ],
+      "camera": "wyze-battery-cam-pro",
+      "mounting": "hanging"
+    },
+    {
+      "id": "bottle-bough",
+      "parts": 2,
+      "plates": 1,
+      "planning_hours": [
+        4.0,
+        8.5
+      ],
+      "camera": "wyze-battery-cam-pro",
+      "mounting": "post"
+    },
+    {
+      "id": "drift-platform",
+      "parts": 2,
+      "plates": 2,
+      "planning_hours": [
+        5.0,
+        12.0
+      ],
+      "camera": "birdfy-cam-2k",
+      "mounting": "wall"
+    },
+    {
+      "id": "ridge-aframe",
+      "parts": 2,
+      "plates": 2,
+      "planning_hours": [
+        10.0,
+        22.0
+      ],
+      "camera": "wyze-battery-cam-pro",
+      "mounting": "wall"
+    },
+    {
+      "id": "acorn-column",
+      "parts": 2,
+      "plates": 2,
+      "planning_hours": [
+        7.5,
+        16.0
+      ],
+      "camera": "birdfy-cam-2k",
+      "mounting": "post"
+    },
+    {
+      "id": "woven-arch",
+      "parts": 2,
+      "plates": 2,
+      "planning_hours": [
+        9.5,
+        20.5
+      ],
+      "camera": "wyze-battery-cam-pro",
+      "mounting": "hanging"
+    },
+    {
+      "id": "willow-screen",
+      "parts": 2,
+      "plates": 1,
+      "planning_hours": [
+        8.5,
+        18.0
+      ],
+      "camera": "birdfy-cam-2k",
+      "mounting": "wall"
+    }
+  ],
+  "browser_QA": "Not performed: managed preview infrastructure unavailable",
+  "physical_print_test": false
+}

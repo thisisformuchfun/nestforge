@@ -1,0 +1,76 @@
+{
+  "new_editorial_pages": 12,
+  "local_html_references_checked": 365,
+  "images_with_alt_text": 28,
+  "unchanged_original_artifacts": 761,
+  "catalog_designs_preserved": 47,
+  "camera_free_designs": 37,
+  "source_generation_deterministic": true,
+  "duplicate_ids": 0,
+  "missing_local_links": 0,
+  "camera_metadata_sanity_checks": [
+    {
+      "id": "orchard-hopper",
+      "feeding_target_in_forward_halfspace": true,
+      "forward_projection_mm": 71.5,
+      "service_instructions_present": true
+    },
+    {
+      "id": "meadow-lantern",
+      "feeding_target_in_forward_halfspace": true,
+      "forward_projection_mm": 78.0,
+      "service_instructions_present": true
+    },
+    {
+      "id": "fern-wall-pocket",
+      "feeding_target_in_forward_halfspace": true,
+      "forward_projection_mm": 103.27,
+      "service_instructions_present": true
+    },
+    {
+      "id": "pebble-pod",
+      "feeding_target_in_forward_halfspace": true,
+      "forward_projection_mm": 92.0,
+      "service_instructions_present": true
+    },
+    {
+      "id": "bottle-bough",
+      "feeding_target_in_forward_halfspace": true,
+      "forward_projection_mm": 79.78,
+      "service_instructions_present": true
+    },
+    {
+      "id": "drift-platform",
+      "feeding_target_in_forward_halfspace": true,
+      "forward_projection_mm": 102.72,
+      "service_instructions_present": true
+    },
+    {
+      "id": "ridge-aframe",
+      "feeding_target_in_forward_halfspace": true,
+      "forward_projection_mm": 88.0,
+      "service_instructions_present": true
+    },
+    {
+      "id": "acorn-column",
+      "feeding_target_in_forward_halfspace": true,
+      "forward_projection_mm": 102.61,
+      "service_instructions_present": true
+    },
+    {
+      "id": "woven-arch",
+      "feeding_target_in_forward_halfspace": true,
+      "forward_projection_mm": 93.0,
+      "service_instructions_present": true
+    },
+    {
+      "id": "willow-screen",
+      "feeding_target_in_forward_halfspace": true,
+      "forward_projection_mm": 107.21,
+      "service_instructions_present": true
+    }
+  ],
+  "mobile_checks": "Static responsive rules only. No rendered mobile viewport verified.",
+  "browser_patch_QA": "Blocked: cloud loopback preview unavailable; escalation bwrap failed.",
+  "physical_validation": "Not performed; no claim added."
+}

@@ -1,0 +1,1323 @@
+{
+  "checked_date_utc": "2026-10-20",
+  "currency": "USD",
+  "filaments": {
+    "checked_at_utc": "2026-10-20T00:22:40.616261+00:00",
+    "checked_date_label": "2026-10-20 UTC / 2026-10-19 US Pacific",
+    "currency": "USD",
+    "price_note": "Manufacturer direct-store price and availability snapshots, excluding tax/shipping; recheck before buying. Shopify available reflects purchasability flag, not guaranteed delivery. 1 kg refers to filament net weight from title, not Shopify shipping weight.",
+    "scope": "Official US direct stores. Standard ASA/ASA+ palette; reinforced and high-speed variants explicitly distinguished.",
+    "brands": [
+      {
+        "brand": "Polymaker",
+        "product": "Polymaker\u2122 ASA",
+        "source_url": "https://shop.polymaker.com/products/asa.js",
+        "web_ref": "turn29view1",
+        "variants": [
+          {
+            "color": "Black",
+            "variant_name": "Black / 1kg",
+            "price_usd": 24.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=39574343254073",
+            "material": "ASA",
+            "manufacturer_hex": "#17161A",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Jet Black",
+            "variant_name": "Jet Black / 1kg",
+            "price_usd": 25.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=41297658314809",
+            "material": "ASA",
+            "manufacturer_hex": "#161618",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "White",
+            "variant_name": "White / 1kg",
+            "price_usd": 25.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=39574343221305",
+            "material": "ASA",
+            "manufacturer_hex": "#DBD7D6",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Grey",
+            "variant_name": "Grey / 1kg",
+            "price_usd": 26.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=39574343188537",
+            "material": "ASA",
+            "manufacturer_hex": "#8D8E92",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Blue",
+            "variant_name": "Blue / 1kg",
+            "price_usd": 26.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=39574343123001",
+            "material": "ASA",
+            "manufacturer_hex": "#003576",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Red",
+            "variant_name": "Red / 1kg",
+            "price_usd": 26.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=39574343155769",
+            "material": "ASA",
+            "manufacturer_hex": "#D82B1C",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Green",
+            "variant_name": "Green / 1kg",
+            "price_usd": 26.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=40294530875449",
+            "material": "ASA",
+            "manufacturer_hex": "#2E784D",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Orange",
+            "variant_name": "Orange / 1kg",
+            "price_usd": 26.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=39597309231161",
+            "material": "ASA",
+            "manufacturer_hex": "#F37716",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Yellow",
+            "variant_name": "Yellow / 1kg",
+            "price_usd": 26.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=40294530908217",
+            "material": "ASA",
+            "manufacturer_hex": "#EEC000",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Purple",
+            "variant_name": "Purple / 1kg",
+            "price_usd": 26.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=39597310148665",
+            "material": "ASA",
+            "manufacturer_hex": "#5F4793",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Polymaker Teal",
+            "variant_name": "Polymaker Teal / 1kg",
+            "price_usd": 26.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=40294530940985",
+            "material": "ASA",
+            "manufacturer_hex": "#0094A4",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Natural",
+            "variant_name": "Natural / 1kg",
+            "price_usd": 26.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=39574343090233",
+            "material": "ASA",
+            "manufacturer_hex": "#DFD3C3",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Army Green",
+            "variant_name": "Army Green / 1kg",
+            "price_usd": 26.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=39597309624377",
+            "material": "ASA",
+            "manufacturer_hex": "#5C5E31",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Army Brown",
+            "variant_name": "Army Brown / 1kg",
+            "price_usd": 26.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=40627010109497",
+            "material": "ASA",
+            "manufacturer_hex": "#624234",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Dark Grey",
+            "variant_name": "Dark Grey / 1kg",
+            "price_usd": 26.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=41170857918521",
+            "material": "ASA",
+            "manufacturer_hex": "#48474A",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Pop Blue",
+            "variant_name": "Pop Blue / 1kg",
+            "price_usd": 26.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=41159525826617",
+            "material": "ASA",
+            "manufacturer_hex": "#008DC3",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Pop Pink",
+            "variant_name": "Pop Pink / 1kg",
+            "price_usd": 26.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=41159525859385",
+            "material": "ASA",
+            "manufacturer_hex": "#D83076",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Pop Green",
+            "variant_name": "Pop Green / 1kg",
+            "price_usd": 26.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=41159525892153",
+            "material": "ASA",
+            "manufacturer_hex": "#77D730",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Dark Purple",
+            "variant_name": "Dark Purple / 1kg",
+            "price_usd": 26.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=41590534897721",
+            "material": "ASA",
+            "manufacturer_hex": "#46394E",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Dark Gray Green",
+            "variant_name": "Dark Gray Green / 1kg",
+            "price_usd": 26.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=41590536634425",
+            "material": "ASA",
+            "manufacturer_hex": "#4C5F46",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          },
+          {
+            "color": "Olive Brown",
+            "variant_name": "Olive Brown / 1kg",
+            "price_usd": 26.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://shop.polymaker.com/products/asa?variant=41590536667193",
+            "material": "ASA",
+            "manufacturer_hex": "#A79565",
+            "brand": "Polymaker",
+            "product": "Polymaker\u2122 ASA",
+            "checked_date_utc": "2026-10-23"
+          }
+        ]
+      },
+      {
+        "brand": "Overture",
+        "product": "Overture ASA 3D Printer Filament 1.75mm",
+        "source_url": "https://overture3d.com/products/overture-asa-filament-1-75mm.js",
+        "web_ref": "turn29view2",
+        "variants": [
+          {
+            "color": "Black",
+            "variant_name": "Black / 1.75mm / 1 kg",
+            "price_usd": 19.99,
+            "available": false,
+            "filament_weight_kg": 1,
+            "url": "https://overture3d.com/products/overture-asa-filament-1-75mm?variant=43725475774718",
+            "material": "ASA",
+            "manufacturer_hex": "#000000",
+            "brand": "Overture",
+            "product": "Overture ASA 3D Printer Filament 1.75mm",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "White",
+            "variant_name": "White / 1.75mm / 1 kg",
+            "price_usd": 24.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://overture3d.com/products/overture-asa-filament-1-75mm?variant=43725475905790",
+            "material": "ASA",
+            "manufacturer_hex": "#FFFFFF",
+            "brand": "Overture",
+            "product": "Overture ASA 3D Printer Filament 1.75mm",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Gray",
+            "variant_name": "Gray / 1.75mm / 1 kg",
+            "price_usd": 25.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://overture3d.com/products/overture-asa-filament-1-75mm?variant=43725475873022",
+            "material": "ASA",
+            "manufacturer_hex": "#B5B9BA",
+            "brand": "Overture",
+            "product": "Overture ASA 3D Printer Filament 1.75mm",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Red",
+            "variant_name": "Red / 1.75mm / 1 kg",
+            "price_usd": 25.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://overture3d.com/products/overture-asa-filament-1-75mm?variant=43725475840254",
+            "material": "ASA",
+            "manufacturer_hex": "#AF251E",
+            "brand": "Overture",
+            "product": "Overture ASA 3D Printer Filament 1.75mm",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Brown",
+            "variant_name": "Brown / 1.75mm / 1 kg",
+            "price_usd": 27.99,
+            "available": false,
+            "filament_weight_kg": 1,
+            "url": "https://overture3d.com/products/overture-asa-filament-1-75mm?variant=43982539718910",
+            "material": "ASA",
+            "manufacturer_hex": "#785F53",
+            "brand": "Overture",
+            "product": "Overture ASA 3D Printer Filament 1.75mm",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Orange",
+            "variant_name": "Orange / 1.75mm / 1 kg",
+            "price_usd": 27.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://overture3d.com/products/overture-asa-filament-1-75mm?variant=43725475741950",
+            "material": "ASA",
+            "manufacturer_hex": "#FF9A40",
+            "brand": "Overture",
+            "product": "Overture ASA 3D Printer Filament 1.75mm",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Yellow",
+            "variant_name": "Yellow / 1.75mm / 1 kg",
+            "price_usd": 27.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://overture3d.com/products/overture-asa-filament-1-75mm?variant=43982539686142",
+            "material": "ASA",
+            "manufacturer_hex": "#FFE802",
+            "brand": "Overture",
+            "product": "Overture ASA 3D Printer Filament 1.75mm",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Natural",
+            "variant_name": "Natural / 1.75mm / 1 kg",
+            "price_usd": 29.99,
+            "available": false,
+            "filament_weight_kg": 1,
+            "url": "https://overture3d.com/products/overture-asa-filament-1-75mm?variant=43982539555070",
+            "material": "ASA",
+            "manufacturer_hex": "#F1E6B3",
+            "brand": "Overture",
+            "product": "Overture ASA 3D Printer Filament 1.75mm",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Olive Green",
+            "variant_name": "Olive Green / 1.75mm / 1 kg",
+            "price_usd": 25.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://overture3d.com/products/overture-asa-filament-1-75mm?variant=43982539587838",
+            "material": "ASA",
+            "manufacturer_hex": "#6B7550",
+            "brand": "Overture",
+            "product": "Overture ASA 3D Printer Filament 1.75mm",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Green",
+            "variant_name": "Green / 1.75mm / 1 kg",
+            "price_usd": 25.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://overture3d.com/products/overture-asa-filament-1-75mm?variant=43982539653374",
+            "material": "ASA",
+            "manufacturer_hex": "#01AA5E",
+            "brand": "Overture",
+            "product": "Overture ASA 3D Printer Filament 1.75mm",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Blue",
+            "variant_name": "Blue / 1.75mm / 1 kg",
+            "price_usd": 25.99,
+            "available": false,
+            "filament_weight_kg": 1,
+            "url": "https://overture3d.com/products/overture-asa-filament-1-75mm?variant=43725475807486",
+            "material": "ASA",
+            "manufacturer_hex": "#002979",
+            "brand": "Overture",
+            "product": "Overture ASA 3D Printer Filament 1.75mm",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Diamond Blue",
+            "variant_name": "Diamond Blue / 1.75mm / 1 kg",
+            "price_usd": 29.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://overture3d.com/products/overture-asa-filament-1-75mm?variant=43982539751678",
+            "material": "ASA",
+            "manufacturer_hex": "#324485",
+            "brand": "Overture",
+            "product": "Overture ASA 3D Printer Filament 1.75mm",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Diamond Red",
+            "variant_name": "Diamond Red / 1.75mm / 1 kg",
+            "price_usd": 27.49,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://overture3d.com/products/overture-asa-filament-1-75mm?variant=43982539784446",
+            "material": "ASA",
+            "manufacturer_hex": "#C01616",
+            "brand": "Overture",
+            "product": "Overture ASA 3D Printer Filament 1.75mm",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Diamond Green",
+            "variant_name": "Diamond Green / 1.75mm / 1 kg",
+            "price_usd": 29.69,
+            "available": false,
+            "filament_weight_kg": 1,
+            "url": "https://overture3d.com/products/overture-asa-filament-1-75mm?variant=43982539817214",
+            "material": "ASA",
+            "manufacturer_hex": "#26A648",
+            "brand": "Overture",
+            "product": "Overture ASA 3D Printer Filament 1.75mm",
+            "checked_date_utc": "2026-10-20"
+          }
+        ]
+      },
+      {
+        "brand": "ERYONE",
+        "product": "ASA & ASA-CF Filament - 1.75mm\u00b10.03mm (1kg)",
+        "source_url": "https://eryone3d.com/products/asa-filament.js",
+        "web_ref": "turn24view1",
+        "variants": [
+          {
+            "color": "ASA-CF-Black",
+            "variant_name": "US / ASA-CF-Black",
+            "price_usd": 34.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://eryone3d.com/products/asa-filament?variant=51609772360046",
+            "material": "ASA-CF",
+            "brand": "ERYONE",
+            "product": "ASA & ASA-CF Filament - 1.75mm\u00b10.03mm (1kg)",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "ASA-Black",
+            "variant_name": "US / ASA-Black",
+            "price_usd": 29.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://eryone3d.com/products/asa-filament?variant=42824398962922",
+            "material": "ASA",
+            "brand": "ERYONE",
+            "product": "ASA & ASA-CF Filament - 1.75mm\u00b10.03mm (1kg)",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "ASA-White",
+            "variant_name": "US / ASA-White",
+            "price_usd": 29.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://eryone3d.com/products/asa-filament?variant=42824398995690",
+            "material": "ASA",
+            "brand": "ERYONE",
+            "product": "ASA & ASA-CF Filament - 1.75mm\u00b10.03mm (1kg)",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "ASA-CF-Purple red",
+            "variant_name": "US / ASA-CF-Purple red",
+            "price_usd": 34.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://eryone3d.com/products/asa-filament?variant=52008242577774",
+            "material": "ASA-CF",
+            "brand": "ERYONE",
+            "product": "ASA & ASA-CF Filament - 1.75mm\u00b10.03mm (1kg)",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "ASA-CF-Olive green",
+            "variant_name": "US / ASA-CF-Olive green",
+            "price_usd": 34.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://eryone3d.com/products/asa-filament?variant=52008242610542",
+            "material": "ASA-CF",
+            "brand": "ERYONE",
+            "product": "ASA & ASA-CF Filament - 1.75mm\u00b10.03mm (1kg)",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "ASA-CF-Blue",
+            "variant_name": "US / ASA-CF-Blue",
+            "price_usd": 34.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://eryone3d.com/products/asa-filament?variant=52008242643310",
+            "material": "ASA-CF",
+            "brand": "ERYONE",
+            "product": "ASA & ASA-CF Filament - 1.75mm\u00b10.03mm (1kg)",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "ASA-CF-Dark gray",
+            "variant_name": "US / ASA-CF-Dark gray",
+            "price_usd": 34.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "url": "https://eryone3d.com/products/asa-filament?variant=52008242676078",
+            "material": "ASA-CF",
+            "brand": "ERYONE",
+            "product": "ASA & ASA-CF Filament - 1.75mm\u00b10.03mm (1kg)",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "ASA-High Speed-Black",
+            "price_usd": 34.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "material": "ASA High-Speed",
+            "url": "https://eryone3d.com/products/asa-high-speed-filament?variant=51887161377134",
+            "brand": "ERYONE",
+            "product": "ASA & ASA-CF Filament - 1.75mm\u00b10.03mm (1kg)",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "ASA-High Speed-White",
+            "price_usd": 34.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "material": "ASA High-Speed",
+            "url": "https://eryone3d.com/products/asa-high-speed-filament?variant=51887161409902",
+            "brand": "ERYONE",
+            "product": "ASA & ASA-CF Filament - 1.75mm\u00b10.03mm (1kg)",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "ASA-High Speed-Orange",
+            "price_usd": 34.99,
+            "available": false,
+            "filament_weight_kg": 1,
+            "material": "ASA High-Speed",
+            "url": "https://eryone3d.com/products/asa-high-speed-filament?variant=52381595926894",
+            "brand": "ERYONE",
+            "product": "ASA & ASA-CF Filament - 1.75mm\u00b10.03mm (1kg)",
+            "checked_date_utc": "2026-10-20"
+          }
+        ]
+      },
+      {
+        "brand": "Bambu Lab",
+        "product": "ASA",
+        "source_url": "https://bambulab-us.myshopify.com/products/asa-filament.js",
+        "web_ref": "turn21search0",
+        "variants": [
+          {
+            "color": "White (45100)",
+            "price_usd": 29.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "material": "ASA",
+            "url": "https://us.store.bambulab.com/products/asa-filament?variant=41227780849800",
+            "manufacturer_hex": "#FFFAF2",
+            "brand": "Bambu Lab",
+            "product": "ASA",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Green (45500)",
+            "price_usd": 29.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "material": "ASA",
+            "url": "https://us.store.bambulab.com/products/asa-filament?variant=41227780751496",
+            "manufacturer_hex": "#00A6A0",
+            "brand": "Bambu Lab",
+            "product": "ASA",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Black (45101)",
+            "price_usd": 29.99,
+            "available": false,
+            "filament_weight_kg": 1,
+            "material": "ASA",
+            "url": "https://us.store.bambulab.com/products/asa-filament?variant=41227780817032",
+            "manufacturer_hex": "#000000",
+            "brand": "Bambu Lab",
+            "product": "ASA",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Gray (45102)",
+            "price_usd": 29.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "material": "ASA",
+            "url": "https://us.store.bambulab.com/products/asa-filament?variant=41227780882568",
+            "manufacturer_hex": "#8A949E",
+            "brand": "Bambu Lab",
+            "product": "ASA",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Red (45200)",
+            "price_usd": 29.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "material": "ASA",
+            "url": "https://us.store.bambulab.com/products/asa-filament?variant=41227780718728",
+            "manufacturer_hex": "#E02928",
+            "brand": "Bambu Lab",
+            "product": "ASA",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Blue (45600)",
+            "price_usd": 29.99,
+            "available": true,
+            "filament_weight_kg": 1,
+            "material": "ASA",
+            "url": "https://us.store.bambulab.com/products/asa-filament?variant=41227780784264",
+            "manufacturer_hex": "#2140B4",
+            "brand": "Bambu Lab",
+            "product": "ASA",
+            "checked_date_utc": "2026-10-20"
+          }
+        ]
+      },
+      {
+        "brand": "eSUN",
+        "product": "ASA+",
+        "source_url": "https://us.esun3dstore.com/products/easa",
+        "web_ref": "turn29view0",
+        "stock_note": "Rendered unselected page says 0 in stock, but embedded variant inventory gives nonzero quantities for Black, Cold White, Green, Red. Availability below inferred from embedded inventory, not checked through checkout. Sale 18.99 applies all combinations according to ItemPrice sales-scope=all.",
+        "variants": [
+          {
+            "color": "Black",
+            "price_usd": 18.99,
+            "regular_price_usd": 24.99,
+            "available": true,
+            "inventory_snapshot": 578,
+            "sku": "ASA+P175B1A",
+            "filament_weight_kg": 1,
+            "material": "ASA+",
+            "url": "https://us.esun3dstore.com/products/easa",
+            "brand": "eSUN",
+            "product": "ASA+",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Cold White",
+            "price_usd": 18.99,
+            "regular_price_usd": 24.99,
+            "available": true,
+            "inventory_snapshot": 119,
+            "sku": "ASA+P175C-W1A",
+            "filament_weight_kg": 1,
+            "material": "ASA+",
+            "url": "https://us.esun3dstore.com/products/easa",
+            "brand": "eSUN",
+            "product": "ASA+",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Warm White",
+            "price_usd": 18.99,
+            "regular_price_usd": 24.99,
+            "available": false,
+            "inventory_snapshot": 0,
+            "sku": "ASA+P175W-W1A",
+            "filament_weight_kg": 1,
+            "material": "ASA+",
+            "url": "https://us.esun3dstore.com/products/easa",
+            "brand": "eSUN",
+            "product": "ASA+",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Grey",
+            "price_usd": 18.99,
+            "regular_price_usd": 24.99,
+            "available": false,
+            "inventory_snapshot": 0,
+            "sku": "ASA+P175H1A",
+            "filament_weight_kg": 1,
+            "material": "ASA+",
+            "url": "https://us.esun3dstore.com/products/easa",
+            "brand": "eSUN",
+            "product": "ASA+",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Silver",
+            "price_usd": 18.99,
+            "regular_price_usd": 24.99,
+            "available": false,
+            "inventory_snapshot": 0,
+            "sku": "ASA+P175S1A",
+            "filament_weight_kg": 1,
+            "material": "ASA+",
+            "url": "https://us.esun3dstore.com/products/easa",
+            "brand": "eSUN",
+            "product": "ASA+",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Green",
+            "price_usd": 18.99,
+            "regular_price_usd": 24.99,
+            "available": true,
+            "inventory_snapshot": 15,
+            "sku": "ASA+175G1P1",
+            "filament_weight_kg": 1,
+            "material": "ASA+",
+            "url": "https://us.esun3dstore.com/products/easa",
+            "brand": "eSUN",
+            "product": "ASA+",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Red",
+            "price_usd": 18.99,
+            "regular_price_usd": 24.99,
+            "available": true,
+            "inventory_snapshot": 11,
+            "sku": "ASA+175R1P1",
+            "filament_weight_kg": 1,
+            "material": "ASA+",
+            "url": "https://us.esun3dstore.com/products/easa",
+            "brand": "eSUN",
+            "product": "ASA+",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Yellow",
+            "price_usd": 18.99,
+            "regular_price_usd": 24.99,
+            "available": false,
+            "inventory_snapshot": 0,
+            "sku": "ASA+175Y1P1",
+            "filament_weight_kg": 1,
+            "material": "ASA+",
+            "url": "https://us.esun3dstore.com/products/easa",
+            "brand": "eSUN",
+            "product": "ASA+",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "color": "Blue",
+            "price_usd": 18.99,
+            "regular_price_usd": 24.99,
+            "available": false,
+            "inventory_snapshot": 0,
+            "sku": "ASA+175U1P1",
+            "filament_weight_kg": 1,
+            "material": "ASA+",
+            "url": "https://us.esun3dstore.com/products/easa",
+            "brand": "eSUN",
+            "product": "ASA+",
+            "checked_date_utc": "2026-10-20"
+          }
+        ]
+      }
+    ],
+    "recommended_palette": [
+      {
+        "palette_role": "ivory / cream",
+        "brand": "Polymaker",
+        "color": "Natural",
+        "variant_name": "Natural / 1kg",
+        "price_usd": 26.99,
+        "available": true,
+        "filament_weight_kg": 1,
+        "url": "https://shop.polymaker.com/products/asa?variant=39574343090233",
+        "material": "ASA",
+        "manufacturer_hex": "#DFD3C3",
+        "note": "Cream approximation; official color name Natural.",
+        "checked_date_utc": "2026-10-23"
+      },
+      {
+        "palette_role": "white",
+        "brand": "Polymaker",
+        "color": "White",
+        "variant_name": "White / 1kg",
+        "price_usd": 25.99,
+        "available": true,
+        "filament_weight_kg": 1,
+        "url": "https://shop.polymaker.com/products/asa?variant=39574343221305",
+        "material": "ASA",
+        "manufacturer_hex": "#DBD7D6",
+        "note": "",
+        "checked_date_utc": "2026-10-23"
+      },
+      {
+        "palette_role": "black",
+        "brand": "Polymaker",
+        "color": "Jet Black",
+        "variant_name": "Jet Black / 1kg",
+        "price_usd": 25.99,
+        "available": true,
+        "filament_weight_kg": 1,
+        "url": "https://shop.polymaker.com/products/asa?variant=41297658314809",
+        "material": "ASA",
+        "manufacturer_hex": "#161618",
+        "note": "",
+        "checked_date_utc": "2026-10-23"
+      },
+      {
+        "palette_role": "dark gray",
+        "brand": "Polymaker",
+        "color": "Dark Grey",
+        "variant_name": "Dark Grey / 1kg",
+        "price_usd": 26.99,
+        "available": true,
+        "filament_weight_kg": 1,
+        "url": "https://shop.polymaker.com/products/asa?variant=41170857918521",
+        "material": "ASA",
+        "manufacturer_hex": "#48474A",
+        "note": "",
+        "checked_date_utc": "2026-10-23"
+      },
+      {
+        "palette_role": "sand / beige",
+        "brand": "Polymaker",
+        "color": "Olive Brown",
+        "variant_name": "Olive Brown / 1kg",
+        "price_usd": 26.99,
+        "available": true,
+        "filament_weight_kg": 1,
+        "url": "https://shop.polymaker.com/products/asa?variant=41590536667193",
+        "material": "ASA",
+        "manufacturer_hex": "#A79565",
+        "note": "Muted tan approximation, not marketed as beige.",
+        "checked_date_utc": "2026-10-23"
+      },
+      {
+        "palette_role": "yellow / gold",
+        "brand": "Polymaker",
+        "color": "Yellow",
+        "variant_name": "Yellow / 1kg",
+        "price_usd": 26.99,
+        "available": true,
+        "filament_weight_kg": 1,
+        "url": "https://shop.polymaker.com/products/asa?variant=40294530908217",
+        "material": "ASA",
+        "manufacturer_hex": "#EEC000",
+        "note": "Flat yellow/gold approximation; no verified metallic gold ASA in these standard ranges.",
+        "checked_date_utc": "2026-10-23"
+      },
+      {
+        "palette_role": "red",
+        "brand": "Polymaker",
+        "color": "Red",
+        "variant_name": "Red / 1kg",
+        "price_usd": 26.99,
+        "available": true,
+        "filament_weight_kg": 1,
+        "url": "https://shop.polymaker.com/products/asa?variant=39574343155769",
+        "material": "ASA",
+        "manufacturer_hex": "#D82B1C",
+        "note": "",
+        "checked_date_utc": "2026-10-23"
+      },
+      {
+        "palette_role": "blue",
+        "brand": "Polymaker",
+        "color": "Blue",
+        "variant_name": "Blue / 1kg",
+        "price_usd": 26.99,
+        "available": true,
+        "filament_weight_kg": 1,
+        "url": "https://shop.polymaker.com/products/asa?variant=39574343123001",
+        "material": "ASA",
+        "manufacturer_hex": "#003576",
+        "note": "",
+        "checked_date_utc": "2026-10-23"
+      },
+      {
+        "palette_role": "green",
+        "brand": "Polymaker",
+        "color": "Green",
+        "variant_name": "Green / 1kg",
+        "price_usd": 26.99,
+        "available": true,
+        "filament_weight_kg": 1,
+        "url": "https://shop.polymaker.com/products/asa?variant=40294530875449",
+        "material": "ASA",
+        "manufacturer_hex": "#2E784D",
+        "note": "",
+        "checked_date_utc": "2026-10-23"
+      },
+      {
+        "palette_role": "pink / magenta",
+        "brand": "Polymaker",
+        "color": "Pop Pink",
+        "variant_name": "Pop Pink / 1kg",
+        "price_usd": 26.99,
+        "available": true,
+        "filament_weight_kg": 1,
+        "url": "https://shop.polymaker.com/products/asa?variant=41159525859385",
+        "material": "ASA",
+        "manufacturer_hex": "#D83076",
+        "note": "",
+        "checked_date_utc": "2026-10-23"
+      },
+      {
+        "palette_role": "bronze / brown",
+        "brand": "Polymaker",
+        "color": "Army Brown",
+        "variant_name": "Army Brown / 1kg",
+        "price_usd": 26.99,
+        "available": true,
+        "filament_weight_kg": 1,
+        "url": "https://shop.polymaker.com/products/asa?variant=40627010109497",
+        "material": "ASA",
+        "manufacturer_hex": "#624234",
+        "note": "Brown approximation; not metallic bronze.",
+        "checked_date_utc": "2026-10-23"
+      },
+      {
+        "palette_role": "orange",
+        "brand": "Polymaker",
+        "color": "Orange",
+        "variant_name": "Orange / 1kg",
+        "price_usd": 26.99,
+        "available": true,
+        "filament_weight_kg": 1,
+        "url": "https://shop.polymaker.com/products/asa?variant=39597309231161",
+        "material": "ASA",
+        "manufacturer_hex": "#F37716",
+        "note": "",
+        "checked_date_utc": "2026-10-23"
+      }
+    ],
+    "gaps": [
+      "No true metallic gold or bronze verified in standard ASA offerings checked.",
+      "No named Beige/Sand standard ASA verified; Polymaker Olive Brown used only as a visual approximation.",
+      "eSUN Warm White exists but embedded inventory is zero; do not recommend as currently available.",
+      "Bambu Lab Black available=false at check; other five standard colors available=true."
+    ],
+    "source_notes": [
+      "Polymaker and Overture published HEX values are screen references, not guaranteed printed-color matches.",
+      "eSUN inventory rendered without selection conflicts with embedded variant data; report this caveat if discussing stock."
+    ]
+  },
+  "camera_evidence": {
+    "checked_date_utc": "2026-10-20",
+    "requested_us_local_date": "2026-10-19",
+    "currency": "USD",
+    "selection_verdict": "Two credible close-range camera kits and one conditional mechanical prototype. No third independently purchasable, manufacturer-supported close-up camera kit was verified. Do not label Blink close-up validated.",
+    "design_rules": [
+      "Whole camera sled should withdraw without opening seed reservoir.",
+      "All stated dimensions are manufacturer envelopes, not measured fit. Add adjustable straps/soft pads and fit coupon.",
+      "No numerical minimum focus distance found for selected cameras; bench test target/perch distance before final positioning.",
+      "Do not put PIR behind normal transparent glazing. Keep lens, PIR, IR LEDs, light sensor unobstructed.",
+      "No mirror recommended. Mirror redirects optical path but does not eliminate minimum focusing distance; total path must satisfy focus, and IR reflections/ghosting and PIR separate line of sight need testing."
+    ],
+    "cameras": [
+      {
+        "id": "birdfy-cam-2k",
+        "rank": 1,
+        "status": "Extended rear cradle; real-device fit and focus trial required",
+        "name": "Birdfy Cam 2K standalone",
+        "envelope_mm": {
+          "length": 56,
+          "width": 56,
+          "height_with_antenna": 230,
+          "body_height": null
+        },
+        "mass_g": 238,
+        "battery": {
+          "type": "built-in rechargeable lithium-ion",
+          "capacity_mAh": 5200,
+          "removable": false,
+          "charging": "USB-C",
+          "input": "Support says 5V/1.5A; sales page says 5V/1A. Follow purchased-unit label."
+        },
+        "weather": "IP65",
+        "operating_C": [
+          -10,
+          45
+        ],
+        "wifi": "2.4 GHz",
+        "PIR": true,
+        "FOV_degrees": null,
+        "minimum_focus_m": null,
+        "optics": "Manufacturer designed for nearby feeder birdwatching; numeric focus range and FOV not found in checked product specs.",
+        "storage": "No microSD playback; free cloud clips with 30-day retention per product FAQ; AI identification subscription after trial on current listing.",
+        "hub_required": false,
+        "service": "Remove whole camera to charge. Extended rear cradle places the camera behind the roof with open sky above for the antenna. Body contours and focus require a real-device trial; fit is not physically validated.",
+        "prices": [
+          {
+            "seller": "Birdfy direct",
+            "usd": 89.99,
+            "availability": "Listed on official product page when checked; confirm stock at checkout",
+            "contents": "One standalone Cam 2K, mounting arm/bracket, charging cable and solar panel per current page; AI identification by subscription",
+            "url": "https://www.birdfy.com/products/birdfy-cam",
+            "ref": "turn20view1",
+            "checked_date_utc": "2026-10-23",
+            "primary": true
+          },
+          {
+            "seller": "Amazon",
+            "usd": null,
+            "availability": "Exact current standalone offer not verified; do not attach a price to search results",
+            "checked_date_utc": "2026-10-20"
+          }
+        ],
+        "sources": [
+          {
+            "url": "https://support.birdfy.com/product/birdfy-cam/specifications/",
+            "ref": "turn20view0"
+          },
+          {
+            "url": "https://support.birdfy.com/product/birdfy-cam/charging-guidance/",
+            "ref": "turn36view1"
+          }
+        ],
+        "mechanical_layout_note": "Root CAD layout: camera front Y118, roof maximum Y98; open above, no roof ceiling over camera. Design intent only, not a measured-device fit validation."
+      },
+      {
+        "id": "wyze-battery-cam-pro",
+        "rank": 2,
+        "status": "Recommended with required official close-up lens; focus bench test",
+        "name": "Wyze Battery Cam Pro WYZECOP",
+        "envelope_mm": {
+          "width": 63.5,
+          "depth": 45.7,
+          "height": 88.9
+        },
+        "mass_g": 430,
+        "battery": {
+          "type": "removable rechargeable lithium-ion WBAT1",
+          "capacity_mAh": 6200,
+          "pack_mm": [
+            75,
+            40,
+            22
+          ],
+          "charging": "USB-C",
+          "input": "5V/2A adapter not included",
+          "charging_C": [
+            0,
+            50
+          ]
+        },
+        "weather": "IP65",
+        "operating_C": [
+          -20,
+          50
+        ],
+        "wifi": "2.4 and 5GHz",
+        "PIR": true,
+        "radar": true,
+        "FOV_degrees": {
+          "diagonal": 134,
+          "horizontal": 108,
+          "vertical": 56
+        },
+        "minimum_focus_m": null,
+        "optics": {
+          "required": "Wyze Cam Close-up Lens WYZEBF-L",
+          "usd": 9.98,
+          "availability": "In stock",
+          "numeric_focus_range": null,
+          "geometry_mm": null,
+          "manufacturer_claim": "Compatible with Battery Cam Pro and works in Wyze Bird Feeder; exact numeric focus range not published",
+          "url": "https://www.wyze.com/products/wyze-cam-close-up-lens",
+          "ref": "turn26view0",
+          "checked_date_utc": "2026-10-23"
+        },
+        "hub_required": false,
+        "storage": "microSD up to 256GB; cloud and bird detection paid plans",
+        "service": "Bottom battery compartment; remove entire sled before opening and withdrawing pack downward; 75mm pack length suggests >=80mm clear extraction space as design allowance, not manufacturer requirement. 1/4-20 standard mount, exact socket datum unverified.",
+        "prices": [
+          {
+            "seller": "Wyze direct",
+            "usd": 89.98,
+            "contents": "White one camera, one battery, wall mount, USB cable; no adapter",
+            "availability": "Listed on official product page when checked; confirm stock at checkout",
+            "url": "https://www.wyze.com/products/wyze-battery-cam-pro",
+            "ref": "turn36view4",
+            "checked_date_utc": "2026-10-23",
+            "primary": true
+          },
+          {
+            "seller": "Wyze direct extra battery bundle",
+            "usd": 107.98,
+            "contents": "one camera plus extra battery; add $9.98 lens = $117.96 before tax/adapter",
+            "availability": "Selectable variant; confirm selected checkout",
+            "url": "https://www.wyze.com/products/wyze-battery-cam-pro",
+            "ref": "turn36view4",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "seller": "Best Buy",
+            "usd": 89.98,
+            "sku": "6579787",
+            "availability": "Add to cart; local Roseville pickup shown, not user-local inventory",
+            "url": "https://www.bestbuy.com/product/wyze-battery-cam-pro-2k-hdr-wireless-outdoor-indoor-wifi-security-camera-with-motion-detection-and-two-way-audio-white/6579787",
+            "ref": "turn35view3",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "seller": "Amazon",
+            "usd": null,
+            "asin": "B0B9ZTZRBX",
+            "availability": "Page retrieved as raw markup; no verified visible current price",
+            "url": "https://www.amazon.com/dp/B0B9ZTZRBX",
+            "ref": "turn35view1",
+            "identity_verified": "Amazon item details identify Battery Cam Pro, model WYZECOP, one item; current price unverified.",
+            "identity_source_ref": "turn43view0",
+            "checked_date_utc": "2026-10-20"
+          }
+        ],
+        "sources": [
+          {
+            "url": "https://support.wyze.com/hc/en-us/articles/17496828536987-Wyze-Battery-Cam-Pro-Tech-Specs",
+            "ref": "turn19search0"
+          },
+          {
+            "url": "https://support.wyze.com/hc/en-us/articles/17496249799195-Wyze-Battery-Cam-Pro-Setup-Guide",
+            "ref": "turn38view1"
+          }
+        ]
+      },
+      {
+        "id": "blink-outdoor-4",
+        "rank": 3,
+        "status": "Conditional mechanical prototype ONLY; close-focus optics not verified",
+        "name": "Blink Outdoor 4 BCM00500U",
+        "envelope_mm": {
+          "width": 70,
+          "height": 70,
+          "depth": 41
+        },
+        "mass_g": 141,
+        "battery": {
+          "type": "2 AA 1.5V lithium NONRECHARGEABLE",
+          "removable": true,
+          "charging": "None. USB-C external power is not battery charging."
+        },
+        "weather": "IP65 with covers correctly fitted",
+        "operating_C": [
+          -20,
+          45
+        ],
+        "FOV_degrees": {
+          "diagonal": 143
+        },
+        "minimum_focus_m": null,
+        "optics": "No official independently sold compatible close-up lens found. Cannot promise sharp birds at 150mm. Stock feeder-case compatibility is not proof of focus.",
+        "hub_required": true,
+        "hub": "Blink Sync Module required; Core included in selected one-camera kit. Core lacks local storage; subscription or separate supported local-storage module needed for saved recordings.",
+        "service": "Remove whole camera/sled; rear cover access for AA replacement. Do not design around recharging batteries. Preserve removable stock cover and mounting hardware.",
+        "prices": [
+          {
+            "seller": "Best Buy",
+            "usd": 79.99,
+            "sku": "6625862",
+            "model": "B0DHLSZXQD",
+            "contents": "1 Outdoor4 camera with Sync Module Core",
+            "availability": "Add to cart; Roseville 1 in stock shown, not user-local inventory",
+            "url": "https://www.bestbuy.com/product/blink-outdoor-4-wireless-smart-security-camera-two-year-battery-life-1080p-hd-sync-module-core-included-1-camera-black/J39TLSSPHZ/sku/6625862",
+            "ref": "turn39view0",
+            "checked_date_utc": "2026-10-20"
+          },
+          {
+            "seller": "Amazon/manufacturer sales channel",
+            "usd": null,
+            "asin": "B0DHLSZXQD",
+            "availability": "Exact page retrieved as raw markup; current visible price unverified",
+            "url": "https://www.amazon.com/dp/B0DHLSZXQD",
+            "ref": "turn39view1",
+            "identity_verified": "Amazon product title identifies Blink Outdoor 4, Sync Module Core included, 1 camera system; current price unverified.",
+            "identity_source_ref": "turn42view1",
+            "checked_date_utc": "2026-10-20"
+          }
+        ],
+        "sources": [
+          {
+            "url": "https://support.blinkforhome.com/en_US/tech-specs-outdoor4/outdoor4-camera-tech-specs",
+            "ref": "turn36view0"
+          },
+          {
+            "url": "https://support.blinkforhome.com/en_GB/outdoor4-camera-faq",
+            "ref": "turn39search4"
+          },
+          {
+            "url": "https://support.blinkforhome.com/en_US/remove-back-cover-outdoor4-camera",
+            "ref": "turn39search0"
+          }
+        ]
+      }
+    ],
+    "alternatives": [
+      {
+        "name": "Birdfy Camera Cyan",
+        "status": "Real standalone camera, current purchase availability unverified",
+        "envelope_mm": [
+          58,
+          55,
+          98
+        ],
+        "mass_g": 254,
+        "battery_mAh": 9000,
+        "weather": "IP66",
+        "operating_C": [
+          -10,
+          45
+        ],
+        "charging": "USB-C",
+        "url": "https://support.birdfy.com/product/birdfy-cam-cyan/specifications/",
+        "ref": "turn28view0",
+        "retail_url": "https://business.walmart.com/ip/BIRD-CAMERA/7655463270",
+        "retail_problem": "Business page robot wall; consumer product 404. No verified price."
+      },
+      {
+        "name": "Birdbuddy Nature Cam Pro",
+        "status": "Excluded: former direct standalone URL redirects to shop; module not listed",
+        "url": "https://mybirdbuddy.com/product/nature-cam-pro/",
+        "ref": "turn31view0"
+      },
+      {
+        "name": "BirdSnap Cam1",
+        "status": "Excluded: Kickstarter planned reward, not verified off-the-shelf",
+        "url": "https://birdsnap.com/pages/birdsnap-cam-1",
+        "ref": "turn31view1"
+      },
+      {
+        "name": "Reolink Argus3 Ultra",
+        "status": "Not recommended over Blink for third prototype: larger and close focus undocumented",
+        "envelope_mm": [
+          127,
+          90,
+          56
+        ],
+        "mass_g": 335,
+        "battery": "21.6Wh",
+        "USB": "Type-C",
+        "weather": "IP65",
+        "operating_C": [
+          -10,
+          55
+        ],
+        "FOV": {
+          "horizontal": 105,
+          "vertical": 55,
+          "diagonal": 125
+        },
+        "url": "https://support.reolink.com/c/argus-3-ultra/",
+        "ref": "turn25view1"
+      }
+    ],
+    "official_cad": {
+      "landing_url": "https://www.birdfy.com/pages/diy",
+      "download_folder": "https://drive.google.com/drive/folders/1axXRL32Q3mvPvE1ijj-Z3yKCTlWdvlmS",
+      "ref": "turn38view0",
+      "notes": "Listed assembly files include Feeder, Feeder2Duo, Metal, accessories. Camera might be included inside feeder assembly; not confirmed by web reader. Root should retrieve with Drive connector or public folder download."
+    },
+    "default_camera": "wyze-battery-cam-pro"
+  },
+  "last_partial_refresh_utc": "2026-10-23",
+  "refresh_scope": "Polymaker 1 kg variant prices/purchasability from official ASA product JSON; Wyze base camera, required close-up lens, and Birdfy standalone official listings. Other offers retain their October 20 snapshot dates. No checkout or delivery availability verified."
+}

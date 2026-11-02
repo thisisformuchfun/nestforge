@@ -1,0 +1,278 @@
+{
+  "reviewed_date": "2026-10-23",
+  "research_note": "Adjacent-market signals inform these original themes. They are not measurements of NestForge demand or bird-feeder sales.",
+  "sources": [
+    {
+      "id": "etsy-fall-2026",
+      "title": "Etsy Fall/Winter 2026 trend report",
+      "url": "https://www.etsy.com/seller-handbook/article/1521255894814",
+      "published": "2026-10-14",
+      "signal": "Whimsy item searches rose 110% in Etsy\u2019s reported comparison.",
+      "scope": "Three months to September 14, 2026 versus the same period a year earlier; marketplace-wide, not feeder-specific."
+    },
+    {
+      "id": "etsy-spring-2025",
+      "title": "Etsy Spring/Summer 2025 trend report",
+      "url": "https://www.etsy.com/seller-handbook/article/1362959156542",
+      "published": "2025-04-10",
+      "signal": "The report described book-related purchasing and countryside/cosmic aesthetics.",
+      "scope": "Historical adjacent-category signal, not a current estimate of feeder demand."
+    },
+    {
+      "id": "etsy-spring-2026",
+      "title": "Etsy Spring/Summer 2026 trend report",
+      "url": "https://www.etsy.com/seller-handbook/article/1473931456647",
+      "published": "2026-03-17",
+      "signal": "The report highlighted playful objects, personal collections and garden-inspired celebrations.",
+      "scope": "Broad decor and occasion context, not proof that a specific feeder will sell."
+    }
+  ],
+  "themes": [
+    {
+      "id": "woodland",
+      "name": "Cottage & woodland",
+      "tagline": "A tiny retreat in a real garden.",
+      "description": "Leaf forms, warm cabins and woodland silhouettes. Start with the existing cabin, then explore a genuinely different mushroom-canopy feeder.",
+      "ids": [
+        "scandinavian-cabin",
+        "leaf-cocoon",
+        "garden-clog",
+        "spiral-shell"
+      ],
+      "hero": "scandinavian-cabin",
+      "concept": "toadstool-terrace",
+      "priority": "First test",
+      "source": "etsy-fall-2026",
+      "reason": "Recent whimsy interest is the strongest adjacent signal we found; the cottage/woodland translation is our hypothesis."
+    },
+    {
+      "id": "storybook",
+      "name": "Storybook & fantasy",
+      "tagline": "Let the garden tell a story.",
+      "description": "Towers, cozy reading nooks and original fantasy architecture. No recognizable franchise characters or licensed-world claims.",
+      "ids": [
+        "fairy-tale-turret",
+        "gothic-keep",
+        "monster-mimic-chest",
+        "dragon-guard-citadel"
+      ],
+      "hero": "fairy-tale-turret",
+      "concept": "storybook-nook",
+      "priority": "Second test",
+      "source": "etsy-spring-2025",
+      "reason": "Bookish interest provides an older adjacent signal. Validate the feeder crossover before investing in new CAD."
+    },
+    {
+      "id": "retro-space",
+      "name": "Retro space & roadside",
+      "tagline": "A friendly visitor from another era.",
+      "description": "Flying saucers and optimistic space-age forms, not replicas of famous ships. The next idea pairs a rounded diner canopy with a practical seed tray.",
+      "ids": [
+        "ufo-snackduction",
+        "moonbase-tower",
+        "starship-sentinel",
+        "geometric-orbit"
+      ],
+      "hero": "ufo-snackduction",
+      "concept": "comet-diner",
+      "priority": "Exploratory",
+      "source": "etsy-spring-2025",
+      "reason": "Cosmic styling appeared in the older report. The diner direction is an original design hypothesis, not a measured trend."
+    },
+    {
+      "id": "playful",
+      "name": "Playful garden",
+      "tagline": "A small thing that makes you smile.",
+      "description": "An unexpected duck, a clog or a disco ring. Use the current files to compare playful shapes before developing another novelty.",
+      "ids": [
+        "rubber-duck-spa",
+        "garden-clog",
+        "disco-ball-donut",
+        "toilet-throne"
+      ],
+      "hero": "rubber-duck-spa",
+      "priority": "First test",
+      "source": "etsy-fall-2026",
+      "reason": "A practical way to test the same recent whimsy signal using files already available."
+    },
+    {
+      "id": "architecture",
+      "name": "World architecture",
+      "tagline": "A little place, thoughtfully made.",
+      "description": "Architectural silhouettes for people who like gardens, buildings and places. Compare the existing geometry and print plans, without turning a cultural style into a novelty stereotype.",
+      "ids": [
+        "japanese-pagoda",
+        "moroccan-riad",
+        "indian-haveli",
+        "mediterranean-villa"
+      ],
+      "hero": "japanese-pagoda",
+      "priority": "Existing range",
+      "source": "etsy-spring-2026",
+      "reason": "Personal decor is broad context only. There is no category-level feeder demand measurement here."
+    },
+    {
+      "id": "game-day",
+      "name": "Game day, any team",
+      "tagline": "Your colors. No logos required.",
+      "description": "The current football-inspired range plus a proposed open court-side canopy. Generic markings keep the direction independent of leagues, teams and licensed mascots.",
+      "ids": [
+        "helmet",
+        "stadium-bowl",
+        "goalpost-ring",
+        "spiral-football"
+      ],
+      "hero": "helmet",
+      "concept": "courtside-canopy",
+      "priority": "Control test",
+      "reason": "No suitable feeder-specific demand evidence was verified. Keep this as a comparison lane, not a claimed bestseller."
+    }
+  ],
+  "product_pages": [
+    {
+      "id": "scandinavian-cabin",
+      "theme": "Cottage & woodland",
+      "lead": "A steep shingled roof, open side arches and a printed central seed chamber bring a cabin silhouette to the garden.",
+      "use": "For someone who prefers architectural detail to electronics.",
+      "watch": "Seed choice matters: the documented lattice openings are 2.4 \u00d7 10 mm. Trial a small dry seed portion before leaving a filled feeder outside."
+    },
+    {
+      "id": "fairy-tale-turret",
+      "theme": "Storybook & fantasy",
+      "lead": "Eight pointed feeding portals sit beneath a broad bell roof. The seed well, balcony, tower and roof separate for cleaning.",
+      "use": "For a storybook garden without a licensed character or franchise replica.",
+      "watch": "This is a shallow seed well, not a sealed storage hopper. Remove the feeder from its hanger before releasing the roof or tower."
+    },
+    {
+      "id": "garden-clog",
+      "theme": "Playful garden",
+      "lead": "A familiar garden-shoe silhouette hides a removable toe seed well. Toe vents, a raised heel strap and molded grooves are actual CAD details.",
+      "use": "For playful garden decor that still provides access to the feeding well.",
+      "watch": "Inspect all nine toe vents and the 3.2 mm drains for strings and debris. Keep the feeding well clean and do not rely on the decorative heel strap as an alternate hanger."
+    },
+    {
+      "id": "ufo-snackduction",
+      "theme": "Retro space & roadside",
+      "lead": "A broad flying-saucer canopy shelters a suspended-looking bowl on three rigid struts. No moving parts or electronics are required.",
+      "use": "For retro sci-fi fans who want an original object, not a recognizable movie ship.",
+      "watch": "The bowl is supported by printed struts, not a real beam or floating mechanism. Inspect the strut joints and the single integral hanger before loading."
+    },
+    {
+      "id": "lantern-pavilion",
+      "theme": "World architecture",
+      "lead": "Six pointed arches surround a removable printed seed basket beneath a stepped hexagonal roof. The structural details are part of the model.",
+      "use": "For a garden-facing window with a view of a little architectural lantern.",
+      "watch": "The original notes call for whole sunflower seed and a shallow fill; fine seed may escape the mesh. This is a feeder, not an enclosed birdhouse."
+    },
+    {
+      "id": "helmet",
+      "theme": "Game day, any team",
+      "lead": "A generic sports-helmet feeder lets the printed color palette carry the theme. No purchased camera, team logo or licensed branding is required.",
+      "use": "For testing team-color interest without assuming everyone wants the same sport or franchise.",
+      "watch": "Use only the documented integral hanger and verify the load path. Decorative features are not alternate mounting points."
+    }
+  ],
+  "concepts": [
+    {
+      "id": "toadstool-terrace",
+      "name": "Toadstool Terrace",
+      "theme": "Cottage & woodland",
+      "priority": 1,
+      "lead": "A wide mushroom cap shelters a circular seed terrace, with a low central stem hopper instead of a miniature house.",
+      "silhouette": "A broad low cap over a narrow stem and annular deck; no castle shell or repeated box chassis.",
+      "feeding": "Proposed gravity feed through a small metering outlet into a removable ring tray. Seed-flow dimensions are not yet set.",
+      "service": "Lift off the cap for refill; remove the entire ring tray for washing. Keep cap release separate from the structural hanging path.",
+      "mounting": "Proposed hanging design with a continuous structural spine. Hanger strength and balance remain engineering work.",
+      "parts": "Target: cap, hopper/spine and removable ring tray. Part count and plate fit are not validated.",
+      "tests": [
+        "Dry and damp seed bridging at the metering outlet",
+        "Ring-tray removal without releasing the hanging structure",
+        "Drain access, cap rain shedding and suspended load"
+      ],
+      "related": [
+        "scandinavian-cabin",
+        "garden-clog"
+      ],
+      "source": "etsy-fall-2026"
+    },
+    {
+      "id": "storybook-nook",
+      "name": "Storybook Nook",
+      "theme": "Storybook & fantasy",
+      "priority": 2,
+      "lead": "An open-book rain roof shelters a small reading-porch feeding drawer. Blank spine panels invite an original title, not a copied book cover.",
+      "silhouette": "A wall-mounted inverted-open-book pitched roof with one sheltered side porch; deliberately different from a turret or central silo.",
+      "feeding": "A shallow daily-portion drawer, not a bulk hopper. The entire feeding surface should be reachable with a brush.",
+      "service": "Pull the drawer sideways while the backplate stays mounted. Add a positive stop that cannot be confused with its release.",
+      "mounting": "Proposed wall or post backplate. Substrate-specific screws or a suitable strap would be separate hardware.",
+      "parts": "Target: backplate/roof and one removable drawer. Overhangs and print orientation are not yet resolved.",
+      "tests": [
+        "Drawer retention under a visiting bird\u2019s load",
+        "Roof runoff outside the feed opening",
+        "Brush access and seed removal from every corner"
+      ],
+      "related": [
+        "fairy-tale-turret",
+        "lantern-pavilion"
+      ],
+      "source": "etsy-spring-2025"
+    },
+    {
+      "id": "comet-diner",
+      "name": "Comet Diner",
+      "theme": "Retro space & roadside",
+      "priority": 3,
+      "lead": "A rounded roadside-diner canopy covers a long counter perch and a removable seed cassette. The sci-fi comes from the silhouette, not a camera or LED kit.",
+      "silhouette": "Horizontal capsule canopy and swept end fin above an open counter; no saucer, rocket or franchise geometry.",
+      "feeding": "Proposed rear seed cassette feeds a narrow trough. A separated perch keeps decorative counter relief away from the food-contact area.",
+      "service": "Withdraw the rear cassette for refill and the front trough for cleaning. Avoid inaccessible seed behind decorative fins.",
+      "mounting": "Proposed post mount with a broad back flange. Attachment hardware and wind-load requirements are not selected.",
+      "parts": "Target: canopy/body, hopper cassette and trough. No print-time, material-weight or plate-count claim yet.",
+      "tests": [
+        "Seed flow at the full range of proposed fill levels",
+        "Cassette retention and tool-free release",
+        "Wind stability and roof clearance around the bird"
+      ],
+      "related": [
+        "ufo-snackduction",
+        "lantern-pavilion"
+      ],
+      "source": "etsy-spring-2025"
+    },
+    {
+      "id": "courtside-canopy",
+      "name": "Courtside Canopy",
+      "theme": "Game day, any team",
+      "priority": 4,
+      "lead": "A simple sports-court platform under a curved grandstand visor, with two lift-out seed cups. Any color pairing; no team crests or league branding.",
+      "silhouette": "Wide open court and a single rear visor, not another enclosed football or helmet.",
+      "feeding": "Two shallow removable cups allow a small daily portion. Court lines stay outside the seed wells and do not create cleaning grooves inside them.",
+      "service": "Lift each cup straight out. The visor should detach independently for cleaning without disturbing the installed backplate.",
+      "mounting": "Proposed wall/post mounting rather than an overhead hanger. Load direction and attachment spacing need engineering.",
+      "parts": "Target: platform/backplate, visor and two identical cups. Cost, plate count and strength are untested.",
+      "tests": [
+        "Cup retention against tipping and wind uplift",
+        "Drainage beneath both cups",
+        "Sight lines, access and cleaning with the visor installed"
+      ],
+      "related": [
+        "helmet",
+        "garden-clog"
+      ]
+    }
+  ],
+  "retail_crosscheck": [
+    {
+      "title": "Uncommon Goods birdhouses and feeders",
+      "url": "https://www.uncommongoods.com/home-garden/garden/birdhouses-feeders",
+      "checked_date": "2026-10-23",
+      "finding": "The retailer lists a Tree Wizard Bird Feeder at $34 and a glass-house feeder. This confirms a real decorative-feeder category, not demand for a NestForge design. The mushroom item is a nester, not a feeder, so it is not treated as a direct competitor."
+    },
+    {
+      "title": "Perky-Pet official feeder catalog",
+      "url": "https://www.perkypet.com/store/bird-feeders",
+      "checked_date": "2026-10-23",
+      "finding": "The official range separates decorative, hopper, mesh and platform feeders. The Country House feeder is listed at $39.99. These finished-product prices are not comparable to a digital file or a full-spool shopping estimate."
+    }
+  ]
+}
